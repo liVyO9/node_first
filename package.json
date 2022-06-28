@@ -1,0 +1,20 @@
+{
+  "name": "node_first",
+  "version": "1.0.0",
+  "description": "First usage of node js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liVyO9/node_first.git"
+  },
+  "author": "Jakub Sitnik",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/liVyO9/node_first/issues"
+  },
+  "homepage": "https://github.com/liVyO9/node_first#readme"
+}
